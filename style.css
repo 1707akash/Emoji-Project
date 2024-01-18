@@ -8,10 +8,12 @@ body{
     background-attachment: fixed;
     /* font-size: 3rem; */
     color: white;
+    font-family: 'Roboto Mono', monospace;
     
 }
 h1{
     font-size: 3.5rem;
+    margin: 1rem;
 }
 
 table{
