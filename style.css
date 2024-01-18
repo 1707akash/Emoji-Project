@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0 0 0 1rem;
+    background-image: url(./bg2.jpg);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* font-size: 3rem; */
+    color: white;
+    
+}
+h1{
+    font-size: 3.5rem;
+}
+
+table{
+    /* border-spacing: 5rem; */
+    color: greenyellow;
+    font-size: 2.5rem;
+    
+}
+
+input{
+    height: 2rem;
+    font-size: 1.2rem;
+}
+td{
+    width: 30%;
+    border-bottom: 0.5px solid white;
+    padding: 0 1rem 0 1rem;
+    text-align: center;
+}
